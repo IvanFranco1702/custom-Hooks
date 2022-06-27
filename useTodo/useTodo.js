@@ -1,7 +1,7 @@
 import  { useEffect, useReducer } from 'react'
 
 
-import { todoReducer } from '../08-useReducer/todoReducer'
+import { todoReducer } from './todoReducer'
 const initialState=[
     // {
     //      id: new Date().getTime(),
